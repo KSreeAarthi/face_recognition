@@ -5,3 +5,7 @@ where I installed the following packages
 - opencv
 - numpy
 - face-recognition
+
+I have creacted a csv file to record the attendance 
+
+The CSV file uploaded in the repository was the output for video demonstration of my project
