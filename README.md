@@ -1,4 +1,4 @@
-# Hello! I have worked on face_recognition attendance sysytem application using python
+# Hello! I have worked on face_recognition attendance sysytem application using python (3.10.4)
 
 I used pycharm compiler to run this project
 where I installed the following packages
