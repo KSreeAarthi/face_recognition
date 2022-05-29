@@ -1,4 +1,4 @@
-# Hello! I have worked on face_recognition attendance sysytem application using python (3.10.4)
+# Hello! I have worked on face_recognition attendance system application using python (3.10.4)
 
 I used pycharm compiler to run this project
 where I installed the following packages
@@ -8,4 +8,4 @@ where I installed the following packages
 
 I have creacted a csv file to record the attendance 
 
-The CSV file uploaded in the repository was the output for video demonstration of my project
+The csv file uploaded in the repository was the output for video demonstration of my project
